@@ -1,0 +1,6 @@
+{
+  "name": "Pembelajaran Kimia Kelas X",
+  "description": "Aplikasi pembelajaran kimia Kelas X Kurikulum Merdeka dengan simulasi atom interaktif, kuis terstruktur, penjelasan jawaban rinci bertenaga AI, dan pelacakan progres belajar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
